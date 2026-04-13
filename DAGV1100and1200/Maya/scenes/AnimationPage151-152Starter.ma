@@ -1,6 +1,6 @@
 //Maya ASCII 2026 scene
-//Name: AnimationPage151Starter.ma
-//Last modified: Sun, Mar 01, 2026 11:39:21 PM
+//Name: AnimationPage151-152Starter.ma
+//Last modified: Mon, Mar 02, 2026 02:09:54 PM
 //Codeset: UTF-8
 file -rdi 1 -ns "Ultimate_Tailed_v1_0_1" -rfn "Ultimate_Tailed_v1_0_1RN" -op
 		 "v=0;" -typ "mayaAscii" "/Users/anthonyromrell/GitRepos/Essentials/DAGV1100and1200/Maya//scenes/Rigs/Ultimate_Tailed_v1.0.1.ma";
